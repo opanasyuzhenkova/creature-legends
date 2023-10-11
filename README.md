@@ -4,6 +4,8 @@
 
 Репозиторий содержит реализацию классов для видеоигры "Creature Legends"
 
+Автор: [@ollyeys][https://t.me/ollyeys]
+
 ## Описание классов
 
 ### `Creature`
